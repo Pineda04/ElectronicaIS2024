@@ -25,14 +25,24 @@ Este repositorio contiene los montajes realizados en la clase de Electrónica pa
    - [Carpeta con recursos](https://drive.google.com/drive/folders/1fgFZkvq2WW8MH2V-_dQSVT4xCPepHOal?usp=sharing)
 
 5. **Montaje 6:**
+   - Consiste en un control remoto que se encarga de realizar ciertas funciones al presionarse algunos botones.
    - [Código fuente](./Montaje%206)
    - [Carpeta con recursos](https://drive.google.com/drive/folders/10FvtgPUv7R_3ecUivTxbLgy8ExptCbKc?usp=sharing)
 
 6. **Montaje 7:**
+   - Este montaje simula un estacionamiento en el cual se instalaron dos sensores ultrasónicos para evitar que los automóviles chocaran contra la pared al estacionarse. Además, cuenta con un bono por estacionarse en una posición específica. Un display de 7 segmentos será el encargado de mostrarnos la información de la distancia entre el auto y las paredes.
    - [Código fuente](./Montaje%207)
    - [Carpeta con recursos](https://drive.google.com/drive/folders/1bSAwoqUt15o9Z9hE0-gR6LWWel4Ucmw7?usp=sharing)
 
 7. **Proyecto final:**
+   - El proyecto final consiste en un conversor de:  
+   1 - Conversor de texto a Morse.  
+   2 - Conversor de Morse a texto.  
+   3 - Apartado para practicar Morse.  
+   4 - Conversor de texto a binario.  
+   5 - Conversor de texto a octal.  
+   6 - Conversor de texto a hexadecimal.  
+   Todo esto dentro de un menú desde el cual se pueden seleccionar esas opciones. Tenemos una pequeña pantalla de 7 segmentos en la cual podremos ver la información, pero también podremos hacer uso del monitor serial para ver más información a detalle.
    - [Código fuente](./Proyecto)
    - [Carpeta con recursos](https://drive.google.com/drive/folders/1GaFu30rDTwbTQdw6Wrwo-aJsdcSogxrj?usp=sharing)
    
