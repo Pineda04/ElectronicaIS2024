@@ -33,7 +33,7 @@ Este repositorio contiene los montajes realizados en la clase de Electrónica pa
    - [Carpeta con recursos](https://drive.google.com/drive/folders/1bSAwoqUt15o9Z9hE0-gR6LWWel4Ucmw7?usp=sharing)
 
 7. **Proyecto final:**
-   - [Código fuente](./Proyecto%20Final)
+   - [Código fuente](./Proyecto)
    - [Carpeta con recursos](https://drive.google.com/drive/folders/1GaFu30rDTwbTQdw6Wrwo-aJsdcSogxrj?usp=sharing)
    
 ### Instalación 🔧
